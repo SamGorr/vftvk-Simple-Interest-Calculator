@@ -1,26 +1,20 @@
-body {background-color:white;}
+body {background-color:black;
+      font-family: arial;}
 
 h1{
    color:grey;
-   font-family:Arial, Helvetica, sans-serif;
+   font-family: verdana;
 }
 
-.header{
+.div1{ 
+    padding: 20px;
+    border-radius: 25px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color:white;
     position: absolute;
     top: 10%;
     left: 40%;
-}
-
-div{
-    position: absolute;
-    top: 20%;
-    left: 42%;
-}
-
-footer{
-    position: relative;
-    top: 35%;
-    left: 42%;
 }
 
 label {
