@@ -1,4 +1,30 @@
-body {background-color:tan;}
-h1{color:green;}
+body {background-color:white;}
 
+h1{
+   color:grey;
+   font-family:Arial, Helvetica, sans-serif;
+}
 
+.header{
+    position: absolute;
+    top: 10%;
+    left: 40%;
+}
+
+div{
+    position: absolute;
+    top: 20%;
+    left: 42%;
+}
+
+footer{
+    position: relative;
+    top: 35%;
+    left: 42%;
+}
+
+label {
+    display: inline-block;
+    width: 100px;
+    text-align: left;
+  }​
